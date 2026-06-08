@@ -92,4 +92,6 @@ Gujarat Technological University - 9.58/10 CGPA
 
 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-dave-15b3711a4/)
 
+🌐 [Portfolio](https://abhishek-dave-portfolio.vercel.app/)
+
 📍 Toronto, Ontario, Canada
