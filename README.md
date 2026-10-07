@@ -6,22 +6,23 @@ Currently based in Toronto, Canada, with professional experience developing prod
 
 ## 💼 Professional Experience
 
+* Built modern React.js and TypeScript interfaces connected to Node.js and Rails backends.
 * Built and maintained Ruby on Rails applications in Agile environments.
 * Designed and scaled RESTful APIs serving mobile and web applications.
 * Improved application performance using PostgreSQL optimization, Redis caching, and Kafka event-driven architectures.
 * Developed real-time features using ActionCable and WebSockets.
 * Integrated third-party services including payment gateways, email, and SMS providers.
 * Worked closely with cross-functional teams, participating in code reviews, sprint planning, testing, and production deployments.
-* Built modern React.js and TypeScript interfaces connected to Node.js and Rails backends.
+
 
 ## 🛠 Tech Stack
 
 ### Backend
 
-* Ruby on Rails
 * Node.js & Express.js
-* REST APIs
+* Ruby on Rails
 * Microservices Architecture
+* REST APIs
 * WebSockets & Real-Time Systems
 
 ### Frontend
